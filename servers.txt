@@ -1,9 +1,9 @@
 [  
   {"name":"东南亚服务器", "is_test_mod": true, "game_info":"https://hiini.dpdns.org/"},
   
-  {"name":"香港CN2服务器", "is_test_mod": true, "game_info":"https://hiini.dpdns.org/"},
+  {"name":"GitHub服务器托管", "is_test_mod": true, "game_info":"https://hiini.dpdns.org/"},
 
-  {"name":"美国服务器", "is_test_mod": true, "game_info":"https://hiini.dpdns.org/"}
+  {"name":"香港CN2服务器", "is_test_mod": true, "game_info":"https://hiini.dpdns.org/"}
 
   
   
